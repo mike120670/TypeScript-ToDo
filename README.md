@@ -1,4 +1,5 @@
 # New Project
+A great resource https://www.youtube.com/watch?v=jBmrduvKl5w&t=830s
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
