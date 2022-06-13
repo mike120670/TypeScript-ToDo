@@ -1,5 +1,4 @@
 # New Project
-A great resource https://www.youtube.com/watch?v=jBmrduvKl5w&t=830s
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
@@ -23,3 +22,7 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+## Resource 
+A great resource https://www.youtube.com/watch?v=jBmrduvKl5w&t=830s
+
